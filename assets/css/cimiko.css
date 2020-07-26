@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* coloum */
+
+.col-1 {
+    width: 100%;
+    display: inline-block;
+}
+
+.col-2 {
+    width: 49.844%;
+    display: inline-block;
+}
+
+.col-3 {
+    width: 33.126%;
+    display: inline-block;
+}
+
+.col-4 {
+    width: 24.766%;
+    display: inline-block;
+}
+
+.col-5 {
+    width: 19.750%;
+    display: inline-block;
+}
+
+.col-6 {
+    width: 16.407%;
+    display: inline-block;
+}
+
+.col-7 {
+    width: 14.018%;
+    display: inline-block;
+}
+
+.col-8 {
+    width: 12.227%;
+    display: inline-block;
+}
+
+.col-9 {
+    width: 10.833%;
+    display: inline-block;
+}
+
+.col-10 {
+    width: 9.7192%;
+    display: inline-block;
+}
+
+.col-11 {
+    width: 8.807%;
+    display: inline-block;
+}
+
+.col-12 {
+    width: 8.048%;
+    display: inline-block;
+}
+
+/* end coloum */
+
+.nav {
+    display: inline;
+}
